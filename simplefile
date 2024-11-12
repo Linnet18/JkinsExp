@@ -1,0 +1,8 @@
+import java.util.*;
+class Lin
+{
+public static void main(String args[])
+{
+System.out.println("Hello World");
+}
+}
